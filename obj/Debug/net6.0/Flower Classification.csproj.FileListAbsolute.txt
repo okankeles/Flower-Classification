@@ -1,0 +1,18 @@
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Cicek Siniflandirma.exe
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Cicek Siniflandirma.deps.json
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Cicek Siniflandirma.runtimeconfig.json
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Cicek Siniflandirma.dll
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Cicek Siniflandirma.pdb
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.AssemblyInfo.cs
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.dll
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\refint\Cicek Siniflandirma.dll
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.pdb
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.genruntimeconfig.cache
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\ref\Cicek Siniflandirma.dll
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek_Siniflandirma.Properties.Resources.resources
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\obj\Debug\net6.0\Cicek Siniflandirma.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Cicek Siniflandirma\Cicek Siniflandirma\bin\Debug\net6.0\Resources\iris.txt
